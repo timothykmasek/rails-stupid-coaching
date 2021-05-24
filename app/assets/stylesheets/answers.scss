@@ -1,0 +1,36 @@
+// Place all the styles related to the answers controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+a {
+  decoration: none;
+}
+
+.q {
+  background-color: white;
+  font-weight: lighter;
+}
+
+.a {
+  background-color: #FEFFE1;
+  font-weight: lighter;
+}
+
+.answers {
+  width: 400px;
+  padding: 20px;
+  font-weight: lighter;
+}
+
+h1 {
+  font-weight: lighter;
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+h3 {
+  font-style: italic;
+  color: grey;
+  font-weight: lighter;
+}
